@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 Add your API keys here
 TELEGRAM_BOT_TOKEN = "8577644037:AAGbmvvsG6_vJlJK-SygM6bk86Ug3FpNveg"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 Set your OpenAI API key
 openai.api_key = OPENAI_API_KEY
